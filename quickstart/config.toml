@@ -1,0 +1,70 @@
+baseURL                   = "http://heartsierra.org"
+builddrafts                = false
+languageCode               = "en"
+canonifyurls               = true
+contentdir                 = "content"
+layoutdir                  = "layouts"
+publishdir                 = "public"
+enableEmoji                = true
+hasCJKLanguage             = true
+summaryLength              = 200
+Paginate                   = 3
+
+theme                      = "AllinOne"
+title                      = "Anna Liao"
+
+pygmentsuseclasses         = true
+
+[permalinks]
+  blog                     = "blog/:year-:month/:slug/"
+
+
+[taxonomies]
+  tag                      = "tags"
+  series                   = "series"
+  category                 = "categories"
+
+
+[menu]
+  [[menu.main]]
+    name                   = "Blog"
+    weight                 = -100
+    identifier             = "blog"
+    url                    = "blog/"  
+
+  [[menu.main]]
+    name                   = "About"
+    weight                 = -120
+    identifier             = "about"
+    url                    = "about/"  
+
+[params]
+  avatar                   = "img/anna_profile.jpeg"             # path to image in static dir e.g img/avatar.png 
+  author                   = "Anna Liao"
+  description              = ["Calgary, Alberta, Canada"]
+
+  welcome_head             = "Musings"
+  welcome_word             = "from the Great White North"
+
+  latestpostscount         = 5                             # how many posts to display on the home page
+  bloggroupby              = 'month'
+  dateform                 = "Jan 2, 2006"
+  dateformfull             = "2006-01-02  Monday  15:04:05"
+  noshowreadtime           = false                         # if true, don't show "<x> minutes read" in posts
+
+  # slides
+  slidesDirPath            = "static/img/header-slides"    # path to image in local dir (path for hugo)
+  slidesDirPathURL         = "img/header-slides"    # path to image in static dir (for static pages)
+
+  # highlighting 
+  highlightjs              = true
+
+  # latex
+  katex                    = true
+
+  # links
+  email                    = "anna@heartsierra.org"
+  github                   = "//github.com/anna-liao"
+  linkedin                 = "//linkedin.com/in/annaliao1"
+  twitter                  = "//twitter.com/anna52sierra" 
+    
