@@ -21,4 +21,4 @@ At LBL, I was an engineer supporting research to inform energy policy. The two p
 
 ## NASA Jet Propulsion Lab
 
-I was a microdevices engineer working on sensor microfabrication. I _really_ liked the applications for my work, which included high temperature and radiation hard sensors and electronics for Venus. However, I wasn't keen on the daily exposure to toxic chemicals in the microfabrication lab, and I wanted to work on building systems that leveraged my hardware and software skills.
+I was a microdevices engineer working on sensor microfabrication. I _really_ liked the applications for my work, which included high temperature and radiation hard sensors and electronics for Venus. I attained many valuable skills at JPL including builing sensor prototypes end-to-end, optical and electrical characterization and data analysis.
