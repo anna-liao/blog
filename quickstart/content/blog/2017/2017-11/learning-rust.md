@@ -6,7 +6,7 @@ draft: false
 title: "Learning Rust"
 tags: ["Rust"]
 categories: ["Rust"]
-img: "images/blog/2018-11/rust.png"
+img: "images/blog/2017/rust.png"
 toc: true
 summary: "Resources for learning Rust"
 ---
