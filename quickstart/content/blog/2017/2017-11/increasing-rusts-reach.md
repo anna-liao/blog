@@ -8,7 +8,7 @@ tags: ["Rust", "Python"]
 categories: ["Rust"]
 img: "images/blog/2017/rustbridge.jpg"
 toc: true
-summary: "My project to learn Rust and writing a Rust script based on a Python library."
+summary: "My project to learn Rust and write a Rust script while referring to a Python library."
 ---
 
 I participated in the [Increasing Rust’s Reach](https://blog.rust-lang.org/2017/06/27/Increasing-Rusts-Reach.html) program from August to November 2017. My project was **#7 Finding Missing Pieces in the Crates Ecosystem with Andrew Gallant**. I quickly learned that Andrew, aka @[burntsushi](https://github.com/BurntSushi), is well known in the Rust community for developing [`ripgrep`](http://blog.burntsushi.net/ripgrep/), a command line search tool that is faster than the Silver Searcher and `grep`. Just a web search on `ripgrep` will show you how often it is mentioned by others. Visual Studio search is powered by `ripgrep`. I was in awe that I was selected to work with Andrew, AND he is a really nice and knowledgeable guy to work with.
