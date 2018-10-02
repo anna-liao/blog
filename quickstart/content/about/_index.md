@@ -17,7 +17,13 @@ I was an [Outreachy](https://www.outreachy.org/) intern with The Wikimedia Found
 
 ## Lawrence Berkeley Lab
 
-At LBL, I was an engineer supporting research to inform energy policy. The two primary areas I worked in are 1) energy efficiency in residential and small commercial buildings and 2) smart grid and distribution grid.
+I was an engineer supporting research to inform energy policy. I worked on projects in the areas of 1) energy efficiency in residential and small commercial buildings and 2) smart grid and distribution grid.
+
+Some cool projects I worked on during this time:
+
+* **Monitoring residential hot water consumption.** The purpose of this project was to examine energy and water waste of residential hot water distribution systems. We made our own flowmeters to monitor water flow at 1 second resolution. We deployed a wireless sensor network in multiple homes to monitor water flow at all water end uses and energy consumption of the water heater. This was streamed to our server at LBL such that we could view real-time consumption. An example of what we could determine with this data is how long a person left the hot water tap on before a shower (and that corresponds to water and energy waste). 
+
+* **Demonstrating a low-cost embedded device to enable demand response (DR) for 1 kW dinky loads.** Traditionally, a system to enable DR in a 1 MW aluminum smelter costs $50k. This is because if the electric utility is counting on shedding 1 MW load, the DR device must reliably shut off that load. Most of the cost of that system is to ensure reliability. The premise for our project is to demonstrate a low cost (approx. $100) device to enable DR for all the 1 kW "dinky loads" such as the community theater or small office building. Even if we can get 90% reliability, then we can shed 900 kW in 1000 dinky loads. For this project, we deployed embedded PCs in remote buildings that can receive DR signals to shut off load remotely by controlling the thermostat.
 
 ## NASA Jet Propulsion Lab
 
