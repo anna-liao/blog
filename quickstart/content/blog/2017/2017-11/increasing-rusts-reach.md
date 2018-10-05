@@ -11,7 +11,7 @@ toc: true
 summary: "My project to learn Rust and write a Rust script while referring to a Python library."
 ---
 
-I participated in the [Increasing Rust’s Reach](https://blog.rust-lang.org/2017/06/27/Increasing-Rusts-Reach.html) program from August to November 2017. My project was **#7 Finding Missing Pieces in the Crates Ecosystem with Andrew Gallant**. I quickly learned that Andrew, aka @[burntsushi](https://github.com/BurntSushi), is well known in the Rust community for developing [`ripgrep`](http://blog.burntsushi.net/ripgrep/), a command line search tool that is faster than the Silver Searcher and `grep`. Just a web search on `ripgrep` will show you how often it is mentioned by others. Visual Studio search is powered by `ripgrep`. I was in awe that I was selected to work with Andrew, AND he is a really nice and knowledgeable guy to work with.
+I participated in the [Increasing Rust’s Reach](https://blog.rust-lang.org/2017/06/27/Increasing-Rusts-Reach.html) program from August to November 2017. My project was **#7 Finding Missing Pieces in the Crates Ecosystem with Andrew Gallant**. I quickly learned that Andrew, aka @[burntsushi](https://github.com/BurntSushi), is well known in the Rust community for developing [`ripgrep`](https://blog.burntsushi.net/ripgrep/), a command line search tool that is faster than the Silver Searcher and `grep`. Just a web search on `ripgrep` will show you how often it is mentioned by others. Visual Studio search is powered by `ripgrep`. I was in awe that I was selected to work with Andrew, AND he is a really nice and knowledgeable guy to work with.
 
 The plan for my project was to take a small application in Python and port it to Rust. Andrew is a member of the [Rust Libraries team](https://www.rust-lang.org/en-US/team.html) that oversees the Rust standard library, rust-lang crates, conventions, and ecosystem support. The goal is to see how my project could reveal gaps and missing functionality in the Rust library and crates that a new user may encounter. The Library team could then consider how to make the library more usable.
 
@@ -47,6 +47,6 @@ Through this project, I learned much of the Rust basics, but made slow progress 
 
 ---
 
-Big thanks to: Andrew Gallant for volunteering as my mentor for this program; Carol (Nichols || Goulding) for coordinating the Increasing Rust’s Reach program and organizing the [Rust Belt Rust](http://www.rust-belt-rust.com/) conference; and the many other awesome members of the [Rust Team](https://www.rust-lang.org/en-US/team.html) and community for encouragement and advice during my learning process.
+Big thanks to: Andrew Gallant for volunteering as my mentor for this program; Carol (Nichols || Goulding) for coordinating the Increasing Rust’s Reach program and organizing the [Rust Belt Rust](https://www.rust-belt-rust.com/) conference; and the many other awesome members of the [Rust Team](https://www.rust-lang.org/en-US/team.html) and community for encouragement and advice during my learning process.
 
 I will be giving a [talk](https://www.pycascades.com/talks/raspberrypy-to-rustypi-translating-a-python-api-to/) on this project at PyCascades (Jan 2018) in Vancouver, B.C., Canada. I’m hoping to have made some more progress on it by then!

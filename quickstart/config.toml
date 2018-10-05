@@ -1,4 +1,4 @@
-baseURL                   = "http://heartsierra.org"
+baseURL                   = "https://heartsierra.org"
 builddrafts                = false
 languageCode               = "en"
 canonifyurls               = true
@@ -41,7 +41,7 @@ pygmentsuseclasses         = true
 [params]
   avatar                   = "img/anna_profile.jpeg"             # path to image in static dir e.g img/avatar.png 
   author                   = "Anna Liao"
-  description              = ["Calgary, Alberta, Canada"]
+  # description            = []
 
   welcome_head             = "Musings"
   welcome_word             = "from the Great White North"

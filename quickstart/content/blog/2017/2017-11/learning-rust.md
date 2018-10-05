@@ -17,7 +17,7 @@ One thing to note is that the Rust language has rapidly evolved in the past coup
 
 # Learning Rust
 
-Most of the [Rust docs](https://doc.rust-lang.org/) are quite intimidating. I would start with the [Rust book](https://doc.rust-lang.org/book/second-edition/) while completing [Rust exercism](http://exercism.io/languages/rust/about) exercises and tinkering with Rust code in [play.rust-lang.org](http://play.rust-lang.org/). You can import some external crates in the Rust Playground. ([Examples](https://play.rust-lang.org/?gist=51280e8073b54f85cdf5c79547ea2502&version=stable) and [list of supported crates](https://github.com/integer32llc/rust-playground/blob/master/compiler/base/Cargo.toml))
+Most of the [Rust docs](https://doc.rust-lang.org/) are quite intimidating. I would start with the [Rust book](https://doc.rust-lang.org/book/second-edition/) while completing [Rust exercism](https://exercism.io/languages/rust/about) exercises and tinkering with Rust code in [play.rust-lang.org](https://play.rust-lang.org/). You can import some external crates in the Rust Playground. ([Examples](https://play.rust-lang.org/?gist=51280e8073b54f85cdf5c79547ea2502&version=stable) and [list of supported crates](https://github.com/integer32llc/rust-playground/blob/master/compiler/base/Cargo.toml))
 
 It’s important to actually be writing Rust code and running it through the compiler while reading the book. I had read a few chapters of the Rust book and _thought_ I knew Rust, but then realized I didn’t really understand the concepts well when I tried to write code that compiles.
 
@@ -48,7 +48,7 @@ Look for a local [Rust meetup](https://www.meetup.com/topics/rust/) to meet othe
 ## Highlights:
 
 * [History of Rust](https://www.youtube.com/watch?v=79PSagCD_AY)
-* [RustConf 2016 closing keynote](http://www.youtube.com/watch?v=ftQfpAeyxPo) by Julia Evans. Check out her [website](https://jvns.ca/) for a bunch of great comics explaining technical concepts.
+* [RustConf 2016 closing keynote](https://www.youtube.com/watch?v=ftQfpAeyxPo) by Julia Evans. Check out her [website](https://jvns.ca/) for a bunch of great comics explaining technical concepts.
 * [Rust screencasts](http://intorust.com/), by Niko of the Rust Core team
 * [Rust overview](https://www.youtube.com/playlist?list=PLo3w8EB99pqJ74XIGe72c9hBZWz9Y16cY) from Mozilla team
 
